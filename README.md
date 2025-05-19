@@ -1,7 +1,7 @@
 The data for this project was downloaded from the BioProject: [PRJNA962539](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA962539)  
 Link to the BioProject: [https://www.ncbi.nlm.nih.gov/bioproject/PRJNA962539](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA962539)
 
-# The data can either be downloaded `.sra` files using [SRA Toolkit](https://github.com/ncbi/sra-tools/wiki):
+## The data can either be downloaded `.sra` files using [SRA Toolkit](https://github.com/ncbi/sra-tools/wiki):
 
 ```bash
 prefetch --max-size 40G SRR24326672 SRR24326673 SRR24326674 SRR24326675 SRR24326676
@@ -16,7 +16,7 @@ You would have to change the naming of the fastq files to match the naming conve
 More info here: [10x Genomics FASTQ Input Naming Convention](https://www.10xgenomics.com/support/software/cell-ranger-arc/latest/analysis/inputs/specifying-input-fastq-count)  
 But verify that you are matching the OG names with the proper fastq files. 
 
-# OR
+## OR
 
 If you want to avoid doing any of the above and download the OG data submitted to NCBI by the research group, you can use NCBI cloud data delivery platform.  
 More details on it here: [NCBI Cloud Data Delivery](https://www.ncbi.nlm.nih.gov/Traces/cloud-delivery/)
@@ -33,7 +33,7 @@ Once the fastq.gz files are downloaded, you should setup your Cellranger-atac pa
 Cellranger-atac documentation can be found here: [Cellranger-ATAC](https://www.10xgenomics.com/support/software/cell-ranger-atac/latest)
 I used version 2.2.0 for this project.
 
-# Reference genome
+## Reference genome
 
 I downloaded the Mouse reference provided by 10x Genomics instead of creating my own.
 ```bash
