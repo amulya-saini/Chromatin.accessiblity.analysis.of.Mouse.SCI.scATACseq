@@ -30,7 +30,9 @@ Remember:
 ____________________________
 
 Once the fastq.gz files are downloaded, you should setup your Cellranger-atac package/software on linux for aligning the fastq files to the reference genome.
+
 Cellranger-atac documentation can be found here: [Cellranger-ATAC](https://www.10xgenomics.com/support/software/cell-ranger-atac/latest)
+
 I used version 2.2.0 for this project.
 
 ## Reference genome
