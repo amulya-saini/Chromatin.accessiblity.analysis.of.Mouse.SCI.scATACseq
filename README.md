@@ -18,8 +18,7 @@ But verify that you are matching the OG names with the proper fastq files.
 
 # OR
 
-If you want to avoid doing any of the above and download the OG data submitted to NCBI by the research group  
-you can use NCBI cloud data delivery platform.  
+If you want to avoid doing any of the above and download the OG data submitted to NCBI by the research group, you can use NCBI cloud data delivery platform.  
 More details on it here: [NCBI Cloud Data Delivery](https://www.ncbi.nlm.nih.gov/Traces/cloud-delivery/)
 
 * You need to have a NCBI account and AWS account for this  
