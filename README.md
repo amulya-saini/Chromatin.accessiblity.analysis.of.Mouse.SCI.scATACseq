@@ -22,9 +22,9 @@ If you want to avoid doing any of the above and download the OG data submitted t
 More details on it here: [NCBI Cloud Data Delivery](https://www.ncbi.nlm.nih.gov/Traces/cloud-delivery/)
 
 Remember: 
-* You need to have a NCBI account and AWS account for this  
-* You will not be charged for transferring data from NCBI AWS to your AWS S3 (S3 to S3 data transfer)  
-  but you'll be charged by AWS for the duration of storing the data in your S3 and if you download it to your system  
+* You need to have an NCBI account and an AWS account for this.  
+* You will not be charged for transferring data from NCBI AWS to your AWS S3 (S3 to S3 data transfer), 
+  but you'll be charged by AWS for the duration of storing the data in your S3 and if you download it to your system.
 * Billing details can be found here: [AWS S3 Pricing](https://aws.amazon.com/s3/pricing/?p=pm&c=s3&z=4)
 
 # In progress
