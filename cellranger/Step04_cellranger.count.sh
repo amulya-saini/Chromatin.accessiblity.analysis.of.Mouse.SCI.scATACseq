@@ -1,3 +1,4 @@
+# align and generate the peaks by cell matrix
 cellranger-atac count \
   --id=SRR24326672_output \
   --reference=\Amulya/Reference_genome_cellranger/refdata-cellranger-arc-GRCm39-2024-A \
