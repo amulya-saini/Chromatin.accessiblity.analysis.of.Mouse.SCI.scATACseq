@@ -27,5 +27,18 @@ Remember:
   but you'll be charged by AWS for the duration of storing the data in your S3 and if you download it to your system.
 * Billing details can be found here: [AWS S3 Pricing](https://aws.amazon.com/s3/pricing/?p=pm&c=s3&z=4)
 
-# In progress
+____________________________
+
+Once the fastq.gz files are downloaded. You can setup your Cellranger-atac package/software on linux for aligning the fastq files to the reference genome.
+Cellranger-atac documentation can be found here: [Cellranger-ATAC](https://www.10xgenomics.com/support/software/cell-ranger-atac/latest)
+I used version 2.2.0 for this project.
+
+# Reference genome
+I downloaded the Mouse reference provided by 10x Genomics instead of creating my own.
+```bash
+wget "https://cf.10xgenomics.com/supp/cell-arc/refdata-cellranger-arc-GRCm39-2024-A.tar.gz"
+tar xvf refdata-cellranger-arc-GRCm39-2024-A.tar.gz
+```
+
+But if you want to create one, you can follow the Step00 to Step03 bash scripts from the cellranger folder. (I create a zebrafish/Danio rerio reference)
 
