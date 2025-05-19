@@ -45,3 +45,6 @@ But if you want to build one, you can follow the Step00 to Step03 bash scripts f
 
 ## Generate Counts matrix
 Modify the Step04 bash script according to your needs
+
+
+# Ongoing project
