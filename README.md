@@ -20,7 +20,7 @@ But verify that you are matching the OG names with the proper fastq files.
 
 If you want to avoid doing any of the above and download the OG data submitted to NCBI by the research group, you can use NCBI cloud data delivery platform.  
 More details on it here: [NCBI Cloud Data Delivery](https://www.ncbi.nlm.nih.gov/Traces/cloud-delivery/)
-
+____________
 * You need to have a NCBI account and AWS account for this  
 * You will not be charged for transferring data from NCBI AWS to your AWS S3 (S3 to S3 data transfer)  
   but you'll be charged by AWS for the duration of storing the data in your S3 and if you download it to your system  
