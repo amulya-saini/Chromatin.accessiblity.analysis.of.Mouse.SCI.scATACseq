@@ -1,3 +1,6 @@
+# Studying chromatin accessibility changes during Mouse Spinal Cord Injury using scATAC-seq
+
+
 The data for this project was downloaded from the BioProject:  [PRJNA962539](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA962539)  
 Link to the BioProject  :  [Best practices for differential accessibility analysis in single-cell epigenomics (house mouse)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA962539)  
 **Citation** :  Skinnider, M. A., Gautier, M., Teo, A. Y. Y., Kathe, C., Hutson, T. H., Laskaratos, A., De Coucy, A., Regazzi, N., Aureli, V., James, N. D., Schneider, B., Sofroniew, M. V., Barraud, Q., Bloch, J., Anderson, M. A., Squair, J. W., & Courtine, G. (2024). Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica. Nature, 631(8019), 150–163. https://doi.org/10.1038/s41586-024-07504-y
