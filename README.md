@@ -41,5 +41,7 @@ wget "https://cf.10xgenomics.com/supp/cell-arc/refdata-cellranger-arc-GRCm39-202
 tar xvf refdata-cellranger-arc-GRCm39-2024-A.tar.gz
 ```
 
-But if you want to build one, you can follow the Step00 to Step03 bash scripts from the cellranger folder and adjust it according to your needs. Here, I create a zebrafish/Danio rerio reference.
+But if you want to build one, you can follow the Step00 to Step03 bash scripts from the cellranger folder and adjust it according to your needs. Here, I created a zebrafish/Danio rerio reference.
 
+## Generate Counts matrix
+Modify the Step04 bash script according to your needs
